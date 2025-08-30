@@ -1,4 +1,4 @@
-# Hi there, I'm Archit Srivastav 👋
+# Hi there, I'm Archit Srivastava 👋
 
 ## 👨‍💻 Senior Engineer | GenAI & Multi-Agent Specialist
 
