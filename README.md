@@ -29,7 +29,7 @@ I'm a Senior Engineer specializing in Generative AI and Multi-Agent Systems, wit
 ---
 
 ### 🌐 Let's Connect!
-<!-- Add your LinkedIn, Twitter, Website, etc. here if you wish -->
+https://forms.gle/S86EXmCo3wmFKNgT6
 
 ---
 
